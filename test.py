@@ -1,2 +1,2 @@
-arr=[1,2,3]
-print(sum(arr))
+for i in range(10,1):
+   print(i) 
