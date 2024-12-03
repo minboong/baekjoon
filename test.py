@@ -1,2 +1,2 @@
-money=101
-print(money%4)
+arr=[1,2,3]
+print(arr[1:])
