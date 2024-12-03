@@ -1,5 +1,7 @@
 N, K = map(int,input().split())
+#우수답안
 arr= [int(input()) for _ in range(N)]
+#내 답안
 #arr=[]
 # for i in range(N):
 #     arr.append(int(input()))
