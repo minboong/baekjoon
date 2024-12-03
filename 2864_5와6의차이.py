@@ -1,0 +1,8 @@
+a, b=input().split()
+a=a.replace('5','6')
+b=b.replace('5','6')
+maxInt=int(a)+int(b)
+a=a.replace('6','5')
+b=b.replace('6','5')
+minInt=int(a)+int(b)
+print(minInt,maxInt)
