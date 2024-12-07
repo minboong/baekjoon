@@ -1,2 +1,2 @@
-for i in range(10,1):
-   print(i) 
+arr=[1,2,3]
+print(arr[-1])
