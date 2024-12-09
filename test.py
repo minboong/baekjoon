@@ -1,2 +1,2 @@
-arr=[1,2,3]
-print(arr[-1])
+arr = [[1,2],3,4]
+print(len(arr[0]))
