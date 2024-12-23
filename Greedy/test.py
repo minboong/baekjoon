@@ -1,2 +1,2 @@
-arr = [1,2,3]
-print(arr[:3])
+q = [3,2]
+print(q.pop())
