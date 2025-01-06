@@ -14,7 +14,6 @@ result = []
 for _ in range(N):
     cycle = 0
     leng = int(input())
-    #start = list(range(1,int(input())+1))
     destination = list(map(int,sys.stdin.readline().strip().split()))
     visited = [False] * leng
     for i in range(1,leng+1):
