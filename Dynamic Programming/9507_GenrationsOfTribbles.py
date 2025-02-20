@@ -1,3 +1,4 @@
+#https://www.acmicpc.net/problem/9507
 def kng(n):
     global fibo
     result = 0

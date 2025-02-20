@@ -1,3 +1,4 @@
+#https://www.acmicpc.net/problem/11722
 import sys
 from dataclasses import dataclass,field
 from collections import deque

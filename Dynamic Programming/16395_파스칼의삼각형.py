@@ -1,3 +1,4 @@
+#https://www.acmicpc.net/problem/16395
 from functools import lru_cache
 @lru_cache(None)
 def pascal(n,k):

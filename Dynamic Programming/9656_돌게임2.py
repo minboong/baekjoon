@@ -1,3 +1,4 @@
+#https://www.acmicpc.net/problem/9656
 N = int(input())
 
 a = N//3
